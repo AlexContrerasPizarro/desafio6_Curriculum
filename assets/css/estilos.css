@@ -99,3 +99,6 @@ footer{
   100%  {color: var(--color-1)}
 }
 
+.fauser:hover {
+  color: #4d4d50;
+}
